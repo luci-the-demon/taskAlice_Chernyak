@@ -11,3 +11,29 @@ Untracked files:
 no changes added to commit (use "git add" and/or "git commit -a")
 
 *зміни*
+
+Історія коммітів:
+commit 7b17a586ed4674bd2386384c3354da4f31499e59 (HEAD -> master)
+Author: luci-the-demon <lonkilomkishurf@gmail.com>
+Date:   Sun Feb 6 19:16:21 2022 +0200
+
+    Цей коммiт зробив iнший коммiт
+
+commit 374acb8e46838e638923672204b82c0f2745a81e
+Author: luci-the-demon <lonkilomkishurf@gmail.com>
+Date:   Thu Feb 3 16:48:01 2022 +0200
+
+    Цей коммiт зробив коммiт
+
+ Об'єкт 7b:
+xҐЋKNД0DYыЅGѓь›¶GB€«8N›XЗЈам+NВ$ДGgиЬ€lYі«z*=U¬ҐдЪгE›‰`ЇdрЅFнєt0д¤3*Ш„–‚Ў	{І=¦ Na¦©Ѓq6ДО“Eo<ЎсmРi-mзu”I;»^‘Kкгу®
+ґл©Ф	®З:уXЛ1ЯЛњnпJИгU¬еZ«Р9ЇаRj)ЕF·ЇЌюgьМoь	ьЕ?|жs^ЃЯЧ‡­ЅрїBжпхiK&вЬnВ
+
+Об'єкт 51:
+Ÿ⤫䵊끕怰㐰〰ㄳࡑ䵊쥌핍꤫愨匈ⓘ쥞ﶷ⻆롚ꡜጢ⪪댽⏄뢳뼤ከ劬퉞겥鎰讏鞮�錵셷7잗〤
+
+Об'єкт 23:
+x…ђMJД@F]ч)Љ¬њгВЌвЖЌ;Aр •®JRLяHw…8с*єР;ДЩ1AA¬]C}хЅ~Ќ‹
+\\]ћЬhЫѓЗ¬њМmЏЎг!*dЕЋ	ЪАFпEwаtИU'
+HЧ­8ѕ©лєЌ0<*ГШЈВ(ОAГkR™6GбДYcв_HІЕD`W
+	0Жґ—РIb["‡щО2>’ґВґ+ПFт\ліу4ЎЭПи….яG-БєЃжІ?Й—Жтн;™БKS€?ЁЕF),UЗћ*А@зЕг·ёuг«Ќ1Ыйuzя|™>¦·н]ћ€
